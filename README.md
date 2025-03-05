@@ -1,4 +1,5 @@
 #AjaxProjectExample
+
 Bu proje, AJAX kullanarak müşteri işlemlerini yönetmek için geliştirilmiştir.
 CRUD (Ekleme, Silme, Güncelleme, Getirme) işlemleri AJAX ile gerçekleştirilmiştir.
 
